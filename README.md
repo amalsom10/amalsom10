@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Amal Soman from Canada.
+I'm Amal Soman from Earth.
 
 - 🔭 I’m currently working and learning SRE/Devops and System Stuffs.
 - 📫 How to reach me: [Amal Soman](https://amalsoman.com/)
