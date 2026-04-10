@@ -1,0 +1,18 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="900" height="200" rx="8" fill="#161b22"/>
+  <!-- Title bar -->
+  <rect width="900" height="42" rx="8" fill="#21262d"/>
+  <rect x="0" y="34" width="900" height="8" fill="#21262d"/>
+  <!-- Traffic lights -->
+  <circle cx="24" cy="21" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="21" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="21" r="6" fill="#28c840"/>
+  <!-- Window title -->
+  <text x="450" y="27" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">amalsom10 — bash</text>
+  <!-- Terminal content -->
+  <text x="30" y="82" font-family="'Courier New', Courier, monospace" font-size="14" fill="#3fb950">❯ whoami</text>
+  <text x="30" y="118" font-family="'Courier New', Courier, monospace" font-size="32" fill="#e6edf3" font-weight="700" letter-spacing="1">Amal Soman</text>
+  <text x="30" y="150" font-family="'Courier New', Courier, monospace" font-size="14" fill="#3fb950">❯ cat roles.txt</text>
+  <text x="30" y="178" font-family="'Courier New', Courier, monospace" font-size="15" fill="#8b949e">Staff Engineer  ·  SRE  ·  DevOps  ·  Platform Engineering  ·  Toronto, Canada</text>
+</svg>

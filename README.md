@@ -1,5 +1,12 @@
 <div align="center">
 
+<a href="https://github.com/amalsom10/amalsom10">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amalsom10/amalsom10/main/dark_mode.svg">
+    <img alt="Amal Soman's GitHub Profile" src="https://raw.githubusercontent.com/amalsom10/amalsom10/main/light_mode.svg" width="100%"/>
+  </picture>
+</a>
+
 # Hey there, I'm Amal Soman 👋
 
 <a href="https://git.io/typing-svg">
