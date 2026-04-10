@@ -75,14 +75,6 @@ Staff DevOps / SRE / Platform Engineer with experience building and scaling clou
 
 ---
 
-### Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amalsom10&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</div>
-
----
-
 ### GitHub Stats
 
 <div align="center">
