@@ -1,13 +1,67 @@
-<svg width="900" height="200" viewBox="0 0 900 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="200" rx="8" fill="#f6f8fa"/>
-  <rect width="900" height="42" rx="8" fill="#eaeef2"/>
-  <rect x="0" y="34" width="900" height="8" fill="#eaeef2"/>
-  <circle cx="24" cy="21" r="6" fill="#ff5f57"/>
-  <circle cx="44" cy="21" r="6" fill="#febc2e"/>
-  <circle cx="64" cy="21" r="6" fill="#28c840"/>
-  <text x="450" y="27" text-anchor="middle" font-family="monospace" font-size="13" fill="#57606a">amalsom10 ~ bash</text>
-  <text x="30" y="82" font-family="monospace" font-size="14" fill="#1a7f37">$ whoami</text>
-  <text x="30" y="116" font-family="monospace" font-size="30" fill="#24292f" font-weight="bold">Amal Soman</text>
-  <text x="30" y="150" font-family="monospace" font-size="14" fill="#1a7f37">$ cat roles.txt</text>
-  <text x="30" y="178" font-family="monospace" font-size="14" fill="#57606a">Staff Engineer | SRE | DevOps | Platform Engineering | Toronto, Canada</text>
+<svg width="860" height="410" viewBox="0 0 860 410" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="410" rx="6" fill="#f6f8fa"/>
+
+  <!-- Vertical divider -->
+  <line x1="268" y1="12" x2="268" y2="398" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- ===== LEFT COLUMN: terminal commands ===== -->
+
+  <text x="15" y="38" font-family="monospace" font-size="12" fill="#1a7f37">$ kubectl get nodes</text>
+  <text x="15" y="55" font-family="monospace" font-size="12" fill="#57606a">NAME         STATUS</text>
+  <text x="15" y="72" font-family="monospace" font-size="12"><tspan fill="#57606a">node-01      </tspan><tspan fill="#1a7f37">Ready</tspan></text>
+  <text x="15" y="89" font-family="monospace" font-size="12"><tspan fill="#57606a">node-02      </tspan><tspan fill="#1a7f37">Ready</tspan></text>
+  <text x="15" y="106" font-family="monospace" font-size="12"><tspan fill="#57606a">node-03      </tspan><tspan fill="#1a7f37">Ready</tspan></text>
+
+  <text x="15" y="132" font-family="monospace" font-size="12" fill="#1a7f37">$ terraform version</text>
+  <text x="15" y="149" font-family="monospace" font-size="12" fill="#0969da">Terraform v1.7.5</text>
+  <text x="15" y="166" font-family="monospace" font-size="12" fill="#57606a">on linux_amd64</text>
+
+  <text x="15" y="192" font-family="monospace" font-size="12" fill="#1a7f37">$ go version</text>
+  <text x="15" y="209" font-family="monospace" font-size="12" fill="#0969da">go1.22.0 linux/amd64</text>
+
+  <text x="15" y="235" font-family="monospace" font-size="12" fill="#1a7f37">$ uptime</text>
+  <text x="15" y="252" font-family="monospace" font-size="12" fill="#57606a">7+ yrs in SRE/DevOps</text>
+
+  <text x="15" y="278" font-family="monospace" font-size="12" fill="#1a7f37">$ ping health</text>
+  <text x="15" y="295" font-family="monospace" font-size="12" fill="#1a7f37">* active (running)</text>
+  <text x="15" y="312" font-family="monospace" font-size="12" fill="#57606a">  SLA: 99.99% uptime</text>
+
+  <text x="15" y="338" font-family="monospace" font-size="12" fill="#1a7f37">$ cat certs.txt</text>
+  <text x="15" y="355" font-family="monospace" font-size="12" fill="#9a6700">RHCE (RHEL 7) - 2015</text>
+
+  <text x="15" y="381" font-family="monospace" font-size="12" fill="#1a7f37">$ _</text>
+
+  <!-- ===== RIGHT COLUMN: info panel ===== -->
+
+  <!-- Header -->
+  <text x="285" y="38" font-family="monospace" font-size="13" font-weight="bold" fill="#24292f">amalsom10</text>
+  <text x="363" y="38" font-family="monospace" font-size="13" fill="#d0d7de">@github ------------------------------------------</text>
+
+  <!-- System -->
+  <text x="285" y="64"  font-family="monospace" font-size="12"><tspan fill="#57606a">  OS: .................. </tspan><tspan fill="#0969da">Linux</tspan></text>
+  <text x="285" y="81"  font-family="monospace" font-size="12"><tspan fill="#57606a">  Host: ................ </tspan><tspan fill="#0969da">VerticalScope, Toronto</tspan></text>
+  <text x="285" y="98"  font-family="monospace" font-size="12"><tspan fill="#57606a">  Role: ................ </tspan><tspan fill="#0969da">Staff Engineer</tspan></text>
+  <text x="285" y="115" font-family="monospace" font-size="12"><tspan fill="#57606a">  Focus: ............... </tspan><tspan fill="#0969da">SRE / DevOps / Platform</tspan></text>
+  <text x="285" y="132" font-family="monospace" font-size="12"><tspan fill="#57606a">  Experience: .......... </tspan><tspan fill="#0969da">7+ years</tspan></text>
+
+  <!-- Languages -->
+  <text x="285" y="158" font-family="monospace" font-size="12"><tspan fill="#57606a">  Languages.Programming: </tspan><tspan fill="#bc4c00">Go, Python, Bash</tspan></text>
+  <text x="285" y="175" font-family="monospace" font-size="12"><tspan fill="#57606a">  Languages.Config: ..... </tspan><tspan fill="#bc4c00">Terraform, Helm, YAML</tspan></text>
+  <text x="285" y="192" font-family="monospace" font-size="12"><tspan fill="#57606a">  Languages.Real: ....... </tspan><tspan fill="#bc4c00">English, Malayalam</tspan></text>
+
+  <!-- Hobbies -->
+  <text x="285" y="218" font-family="monospace" font-size="12"><tspan fill="#57606a">  Hobbies.Infra: ........ </tspan><tspan fill="#1a7f37">Kubernetes, IaC, GitOps</tspan></text>
+  <text x="285" y="235" font-family="monospace" font-size="12"><tspan fill="#57606a">  Hobbies.Obs: .......... </tspan><tspan fill="#1a7f37">Prometheus, Grafana, OTel</tspan></text>
+  <text x="285" y="252" font-family="monospace" font-size="12"><tspan fill="#57606a">  Hobbies.Cloud: ........ </tspan><tspan fill="#1a7f37">AWS, GCP, Azure</tspan></text>
+
+  <!-- Contact -->
+  <text x="285" y="278" font-family="monospace" font-size="12" fill="#57606a">  - Contact ------------------------------------------------</text>
+  <text x="285" y="299" font-family="monospace" font-size="12"><tspan fill="#57606a">  Email: .......... </tspan><tspan fill="#0969da">amalsoman10@gmail.com</tspan></text>
+  <text x="285" y="316" font-family="monospace" font-size="12"><tspan fill="#57606a">  Portfolio: ...... </tspan><tspan fill="#0969da">amalsoman.com</tspan></text>
+  <text x="285" y="333" font-family="monospace" font-size="12"><tspan fill="#57606a">  LinkedIn: ....... </tspan><tspan fill="#0969da">/in/amalsoman</tspan></text>
+  <text x="285" y="350" font-family="monospace" font-size="12"><tspan fill="#57606a">  GitHub: ......... </tspan><tspan fill="#0969da">github.com/amalsom10</tspan></text>
+
+  <!-- Certifications -->
+  <text x="285" y="376" font-family="monospace" font-size="12" fill="#57606a">  - Certifications -------------------------------------</text>
+  <text x="285" y="397" font-family="monospace" font-size="12"><tspan fill="#57606a">  RHCE: ........... </tspan><tspan fill="#9a6700">Red Hat Certified Engineer (2015)</tspan></text>
 </svg>
