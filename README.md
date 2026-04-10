@@ -43,10 +43,7 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalsom10&show_icons=true&count_private=true&theme=solarized-dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalsom10&theme=solarized-dark&count_private=true&layout=compact&hide_border=true" height="165" />
-</div>
+
 
 <div align="center">
   <a href="https://git.io/streak-stats">
