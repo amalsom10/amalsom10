@@ -1,40 +1,35 @@
 <svg width="780" height="290" viewBox="0 0 780 290" xmlns="http://www.w3.org/2000/svg">
   <!-- Main background -->
   <rect width="780" height="290" rx="10" fill="#0d1117"/>
-
-  <!-- Title bar (rounded top, flat bottom) -->
+  <!-- Title bar -->
   <rect x="0" y="0" width="780" height="38" rx="10" fill="#161b22"/>
   <rect x="0" y="24" width="780" height="14" fill="#161b22"/>
-
-  <!-- Window control dots -->
+  <!-- Window dots -->
   <circle cx="22" cy="19" r="6" fill="#ff5f57"/>
   <circle cx="44" cy="19" r="6" fill="#febc2e"/>
   <circle cx="66" cy="19" r="6" fill="#28c840"/>
-
-  <!-- Title bar label -->
+  <!-- Title -->
   <text x="390" y="24" font-family="monospace" font-size="12" fill="#8b949e" text-anchor="middle">bash -- amalsom10 -- 80x24</text>
 
-  <!-- === whoami === -->
-  <text x="20" y="60" font-family="monospace" font-size="13" xml:space="preserve"><tspan fill="#3fb950">amal@github</tspan><tspan fill="#e6edf3">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#e6edf3">$ whoami</tspan></text>
+  <!-- whoami -->
+  <text x="20" y="60" font-family="monospace" font-size="13"><tspan fill="#3fb950">amal@github</tspan><tspan fill="#e6edf3">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#e6edf3">$ whoami</tspan></text>
   <text x="20" y="77" font-family="monospace" font-size="13" fill="#e6edf3">  Amal Soman -- Staff Engineer | SRE | Platform Engineering</text>
 
-  <!-- === cat focus.txt === -->
-  <text x="20" y="101" font-family="monospace" font-size="13" xml:space="preserve"><tspan fill="#3fb950">amal@github</tspan><tspan fill="#e6edf3">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#e6edf3">$ cat focus.txt</tspan></text>
-  <text x="20" y="118" font-family="monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">  cloud       </tspan><tspan fill="#e6edf3">AWS, GCP, Azure</tspan></text>
-  <text x="20" y="135" font-family="monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">  containers  </tspan><tspan fill="#e6edf3">Kubernetes, Docker, Helm</tspan></text>
-  <text x="20" y="152" font-family="monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">  iac         </tspan><tspan fill="#e6edf3">Terraform, Ansible, ArgoCD, GitOps</tspan></text>
-  <text x="20" y="169" font-family="monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">  observ.     </tspan><tspan fill="#e6edf3">Prometheus, Grafana, OTel, SLOs</tspan></text>
+  <!-- cat focus.txt -->
+  <text x="20" y="101" font-family="monospace" font-size="13"><tspan fill="#3fb950">amal@github</tspan><tspan fill="#e6edf3">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#e6edf3">$ cat focus.txt</tspan></text>
+  <text x="20" y="118" font-family="monospace" font-size="13"><tspan fill="#8b949e">  cloud       </tspan><tspan fill="#e6edf3">AWS, GCP, Azure</tspan></text>
+  <text x="20" y="135" font-family="monospace" font-size="13"><tspan fill="#8b949e">  containers  </tspan><tspan fill="#e6edf3">Kubernetes, Docker, Helm</tspan></text>
+  <text x="20" y="152" font-family="monospace" font-size="13"><tspan fill="#8b949e">  iac         </tspan><tspan fill="#e6edf3">Terraform, Ansible, ArgoCD, GitOps</tspan></text>
+  <text x="20" y="169" font-family="monospace" font-size="13"><tspan fill="#8b949e">  observ.     </tspan><tspan fill="#e6edf3">Prometheus, Grafana, OTel, SLOs</tspan></text>
 
-  <!-- === cat links.txt === -->
-  <text x="20" y="193" font-family="monospace" font-size="13" xml:space="preserve"><tspan fill="#3fb950">amal@github</tspan><tspan fill="#e6edf3">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#e6edf3">$ cat links.txt</tspan></text>
-  <text x="20" y="210" font-family="monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">  web    </tspan><tspan fill="#79c0ff">amalsoman.com</tspan></text>
-  <text x="20" y="227" font-family="monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">  email  </tspan><tspan fill="#79c0ff">amalsoman10@gmail.com</tspan></text>
-  <text x="20" y="244" font-family="monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">  in     </tspan><tspan fill="#79c0ff">linkedin.com/in/amalsoman</tspan></text>
-  <text x="20" y="261" font-family="monospace" font-size="13" xml:space="preserve"><tspan fill="#8b949e">  github </tspan><tspan fill="#79c0ff">github.com/amalsom10</tspan></text>
+  <!-- cat links.txt -->
+  <text x="20" y="193" font-family="monospace" font-size="13"><tspan fill="#3fb950">amal@github</tspan><tspan fill="#e6edf3">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#e6edf3">$ cat links.txt</tspan></text>
+  <text x="20" y="210" font-family="monospace" font-size="13"><tspan fill="#8b949e">  web    </tspan><tspan fill="#79c0ff">amalsoman.com</tspan></text>
+  <text x="20" y="227" font-family="monospace" font-size="13"><tspan fill="#8b949e">  email  </tspan><tspan fill="#79c0ff">amalsoman10@gmail.com</tspan></text>
+  <text x="20" y="244" font-family="monospace" font-size="13"><tspan fill="#8b949e">  in     </tspan><tspan fill="#79c0ff">linkedin.com/in/amalsoman</tspan></text>
+  <text x="20" y="261" font-family="monospace" font-size="13"><tspan fill="#8b949e">  github </tspan><tspan fill="#79c0ff">github.com/amalsom10</tspan></text>
 
-  <!-- === Final prompt with blinking cursor === -->
-  <text x="20" y="283" font-family="monospace" font-size="13" xml:space="preserve"><tspan fill="#3fb950">amal@github</tspan><tspan fill="#e6edf3">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#e6edf3">$ </tspan></text>
-  <rect x="140" y="270" width="8" height="13" fill="#e6edf3">
-    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
-  </rect>
+  <!-- Final prompt + static cursor -->
+  <text x="20" y="283" font-family="monospace" font-size="13"><tspan fill="#3fb950">amal@github</tspan><tspan fill="#e6edf3">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#e6edf3">$ </tspan></text>
+  <rect x="140" y="271" width="8" height="12" fill="#e6edf3"/>
 </svg>

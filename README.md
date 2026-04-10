@@ -7,7 +7,9 @@
   </picture>
 </a>
 
-<img src="https://raw.githubusercontent.com/amalsom10/amalsom10/main/terminal.svg" width="100%" alt="Terminal"/>
+<picture>
+  <img src="https://raw.githubusercontent.com/amalsom10/amalsom10/main/terminal.svg" width="100%" alt="Terminal"/>
+</picture>
 
 </div>
 
