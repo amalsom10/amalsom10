@@ -57,7 +57,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amalsom10&theme=solarized-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amalsom10&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
