@@ -7,18 +7,24 @@
   </picture>
 </a>
 
-# Hey there, I'm Amal Soman 👋
+<h1>Hey there, I'm Amal Soman 👋</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Staff+Engineer;DevOps+Engineer;Site+Reliability+Engineer;Platform+Engineer;Kubernetes+%7C+Terraform+%7C+Go" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Staff+Engineer+%7C+SRE+%7C+Platform+Engineer;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+Go+%E2%80%A2+AWS;Building+reliable+infrastructure+at+scale;7%2B+years+in+DevOps+%26+Cloud+Engineering" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-amalsoman.com-blue?style=for-the-badge)](https://amalsoman.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/amalsoman/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalsoman10@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=amalsom10&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/amalsom10)
+<a href="https://amalsoman.com/">
+  <img alt="Portfolio" src="https://img.shields.io/badge/-amalsoman.com-161b22?style=for-the-badge&logo=googlechrome&logoColor=4183C4"/>
+</a>
+<a href="http://www.linkedin.com/in/amalsoman/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:amalsoman10@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/-amalsoman10@gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=amalsom10&style=for-the-badge&color=161b22&label=Views"/>
 
 </div>
 
