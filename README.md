@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/amalsom10.png" width="130" alt="Amal Soman" />
-
 # Hey there, I'm Amal Soman 👋
 
 <a href="https://git.io/typing-svg">
