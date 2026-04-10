@@ -23,7 +23,6 @@ Staff DevOps / SRE / Platform Engineer with experience building and scaling clou
 
 - 🔭 Building infrastructure-as-code platforms, Kubernetes operators in Go, and observability stacks
 - 📈 Strong focus on **SLIs, SLOs, error budgets**, and production reliability
-- 🎓 Red Hat Certified Engineer (RHCE) · B.E. Computer Science
 - 📫 Reach me at **[amalsoman.com](https://amalsoman.com/)**
 
 ---
