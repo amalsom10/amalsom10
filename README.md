@@ -7,11 +7,36 @@
   </picture>
 </a>
 
-<picture>
-  <img src="https://raw.githubusercontent.com/amalsom10/amalsom10/main/terminal.svg" width="100%" alt="Terminal"/>
-</picture>
+<h1>Hey there, I'm Amal Soman 👋</h1>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Staff+Engineer+%7C+SRE+%7C+Platform+Engineer;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+Go+%E2%80%A2+AWS;Building+reliable+infrastructure+at+scale;7%2B+years+in+DevOps+%26+Cloud+Engineering" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://amalsoman.com/">
+  <img alt="Portfolio" src="https://img.shields.io/badge/-amalsoman.com-161b22?style=for-the-badge&logo=googlechrome&logoColor=4183C4"/>
+</a>
+<a href="http://www.linkedin.com/in/amalsoman/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:amalsoman10@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/-amalsoman10@gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=amalsom10&style=for-the-badge&color=161b22&label=Views"/>
 
 </div>
+
+---
+
+### About Me
+
+Staff DevOps / SRE / Platform Engineer with experience building and scaling cloud infrastructure, Kubernetes platforms, observability systems, and developer tooling across **AWS, GCP, and Azure**.
+
+- 🔭 Building infrastructure-as-code platforms, Kubernetes operators in Go, and observability stacks
+- 📈 Strong focus on **SLIs, SLOs, error budgets**, and production reliability
+- 📫 Reach me at **[amalsoman.com](https://amalsoman.com/)**
 
 ---
 
