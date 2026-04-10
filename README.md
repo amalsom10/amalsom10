@@ -2,7 +2,11 @@
 
 # Hey there, I'm Amal Soman 👋
 
-### Staff Engineer | DevOps | SRE | Platform Engineering
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Staff+Engineer;DevOps+Engineer;Site+Reliability+Engineer;Platform+Engineer;Kubernetes+%7C+Terraform+%7C+Go" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-amalsoman.com-blue?style=for-the-badge)](https://amalsoman.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/amalsoman/)
@@ -68,6 +72,14 @@ Staff DevOps / SRE / Platform Engineer with experience building and scaling clou
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+</div>
+
+---
+
+### Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amalsom10&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
