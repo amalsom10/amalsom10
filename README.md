@@ -17,10 +17,8 @@
 
 Staff DevOps / SRE / Platform Engineer with experience building and scaling cloud infrastructure, Kubernetes platforms, observability systems, and developer tooling across **AWS, GCP, and Azure**.
 
-- 🏢 Currently **Staff DevOps Engineer** at **VerticalScope**, Toronto
 - 🔭 Building infrastructure-as-code platforms, Kubernetes operators in Go, and observability stacks
 - 📈 Strong focus on **SLIs, SLOs, error budgets**, and production reliability
-- 🎤 Presented an in-house observability platform at [Grafana Conference](https://www.linkedin.com/posts/levesquejon_observability-engineering-and-understanding-activity-7156312621078450176-f04O)
 - 🎓 Red Hat Certified Engineer (RHCE) · B.E. Computer Science
 - 📫 Reach me at **[amalsoman.com](https://amalsoman.com/)**
 
