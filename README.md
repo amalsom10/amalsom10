@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/29267275?v=4" width="120" style="border-radius: 50%;" alt="Amal Soman" />
-
 # Hey there, I'm Amal Soman 👋
 
 <a href="https://git.io/typing-svg">
