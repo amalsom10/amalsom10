@@ -1,5 +1,5 @@
-<svg width="860" height="460" viewBox="0 0 860 460" xmlns="http://www.w3.org/2000/svg">
-  <rect width="860" height="460" rx="6" fill="#f6f8fa"/>
+<svg width="860" height="480" viewBox="0 0 860 460" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="480" rx="6" fill="#f6f8fa"/>
   <line x1="268" y1="12" x2="268" y2="448" stroke="#d0d7de" stroke-width="1"/>
 
   <!-- ASCII art photo -->
@@ -49,6 +49,7 @@
   <text x="285" y="354" font-family="monospace" font-size="12"><tspan fill="#57606a">  LinkedIn: ....... </tspan><tspan fill="#0969da">/in/amalsoman</tspan></text>
   <text x="285" y="372" font-family="monospace" font-size="12"><tspan fill="#57606a">  GitHub: ......... </tspan><tspan fill="#0969da">github.com/amalsom10</tspan></text>
 
-  <text x="285" y="400" font-family="monospace" font-size="12" fill="#57606a">  - Certifications -------------------------------------</text>
-  <text x="285" y="422" font-family="monospace" font-size="12"><tspan fill="#57606a">  RHCE: ........... </tspan><tspan fill="#9a6700">Red Hat Certified Engineer (2015)</tspan></text>
+  <text x="285" y="396" font-family="monospace" font-size="12" fill="#57606a">  - GitHub Stats -------------------------------------------</text>
+  <text x="285" y="418" font-family="monospace" font-size="12"><tspan fill="#57606a">  Repos: ...... </tspan><tspan fill="#24292f">REPO_COUNT</tspan><tspan fill="#57606a">     Stars: ...... </tspan><tspan fill="#9a6700">STAR_COUNT</tspan></text>
+  <text x="285" y="438" font-family="monospace" font-size="12"><tspan fill="#57606a">  Commits: .... </tspan><tspan fill="#24292f">COMMIT_COUNT</tspan><tspan fill="#57606a">  Followers: .. </tspan><tspan fill="#24292f">FOLLOWER_COUNT</tspan></text>
 </svg>
