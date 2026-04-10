@@ -1,57 +1,57 @@
-<svg width="860" height="480" viewBox="0 0 860 480" xmlns="http://www.w3.org/2000/svg">
-  <rect width="860" height="480" rx="6" fill="#0d1117"/>
-  <line x1="268" y1="12" x2="268" y2="468" stroke="#30363d" stroke-width="1"/>
-  <text x="20" y="38" fill="#c9d1d9" font-family="monospace" font-size="12" xml:space="preserve">
-  <tspan x="20" y="38">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-  <tspan x="20" y="52">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-  <tspan x="20" y="66">@@@@@@@@@@@@@@%@%%%%%%%@@@@@@@@@@@</tspan>
-  <tspan x="20" y="80">@@@@@@@@@@%#+=---:::.:-=*%@@@@@@@@</tspan>
-  <tspan x="20" y="94">@@@@@@@%#*-              .=%@@@@@@</tspan>
-  <tspan x="20" y="108">@@@@@*--:.                 .#@@@@@</tspan>
-  <tspan x="20" y="122">@@@@#.                      -@@@@@</tspan>
-  <tspan x="20" y="136">@@@@-                        *@@@@</tspan>
-  <tspan x="20" y="150">@@@@.      ..:--:...         -@@@@</tspan>
-  <tspan x="20" y="164">@@@%.    .:-=+***++=-:       =@@@@</tspan>
-  <tspan x="20" y="178">@@@@-    ::-===+++=--:.      =@@@@</tspan>
-  <tspan x="20" y="192">@@@@%:   :--=+++++===-:.     =@@@@</tspan>
-  <tspan x="20" y="206">@@@@@+  :::--=++*++=--:.     #@@@@</tspan>
-  <tspan x="20" y="220">@@@@@#.-:.... .-==:.  .     .@@@@@</tspan>
-  <tspan x="20" y="234">@@@@@+=+:....:..:: .-..  .. :#%@@@</tspan>
-  <tspan x="20" y="248">@@@%=.+=-..:--..-: .::.  :: .-#@@@</tspan>
-  <tspan x="20" y="262">@@@#=-=====--::=+- .:---::. .=#@@@</tspan>
-  <tspan x="20" y="276">@@@@+=+======---+-:.----::. .=%@@@</tspan>
-  <tspan x="20" y="290">@@@@#==---==+=::-:.:==-:... .+@@@@</tspan>
-  <tspan x="20" y="304">@@@@@*------::.::: .::::.. .=%@@@@</tspan>
-  <tspan x="20" y="318">@@@@@@*::::   .:::.   ...  +@@@@@@</tspan>
-  <tspan x="20" y="332">@@@@@@@=:::...:-=--.   .   %@@@@@@</tspan>
-  <tspan x="20" y="346">@@@@@@@%-....::......     :@@@@@@@</tspan>
-  <tspan x="20" y="360">@@@@@@**=.  ..:-::.       .=*@@@@@</tspan>
-  <tspan x="20" y="374">@@@@%- :.                    -%@@@</tspan>
-  <tspan x="20" y="388">@@@@-  ..                  .. =@@@</tspan>
-  <tspan x="20" y="402">@%#+     ...                   =#@</tspan>
-  <tspan x="20" y="416">=-:.     ...:...........        .:</tspan>
-  <tspan x="20" y="430">         .::::::::::::::..        </tspan>
-  <tspan x="20" y="444">          ::-========--::         </tspan>
+<svg width="740" height="480" viewBox="0 0 740 480" xmlns="http://www.w3.org/2000/svg">
+  <rect width="740" height="480" rx="6" fill="#0d1117"/>
+  <line x1="310" y1="12" x2="310" y2="468" stroke="#30363d" stroke-width="1"/>
+  <text x="18" y="38" fill="#c9d1d9" font-family="monospace" font-size="12" xml:space="preserve">
+  <tspan x="18" y="38">@@@@@@@@@@@@@@@@%@%%%@%%%@@@@@@@@@@@@@</tspan>
+  <tspan x="18" y="52">@@@@@@@@@@@@%*++-=-:::::-=*#@@@@@@@@@@</tspan>
+  <tspan x="18" y="66">@@@@@@@@@%#+:               :+@@@@@@@@</tspan>
+  <tspan x="18" y="80">@@@@@@%+=-:.                  -%@@@@@@</tspan>
+  <tspan x="18" y="94">@@@@@@-.                       +@@@@@@</tspan>
+  <tspan x="18" y="108">@@@@@+   .                     :%@@@@@</tspan>
+  <tspan x="18" y="122">@@@@@:        .:::..            +@@@@@</tspan>
+  <tspan x="18" y="136">@@@@@:     .:-=+**++=--:.       +@@@@@</tspan>
+  <tspan x="18" y="150">@@@@@-    .:--=++**++==-..      *@@@@@</tspan>
+  <tspan x="18" y="164">@@@@@#:   .:--==++++==--:.      +@@@@@</tspan>
+  <tspan x="18" y="178">@@@@@@+  .::==++****+++=-:.     #@@@@@</tspan>
+  <tspan x="18" y="192">@@@@@@%: -:.::.:-+*+=-....     :@@@@@@</tspan>
+  <tspan x="18" y="206">@@@@@@%:=-:.::...:--......  .. =@@@@@@</tspan>
+  <tspan x="18" y="220">@@@@@#=-*-. ..:-..-: .-:   .:. :+%@@@@</tspan>
+  <tspan x="18" y="234">@@@@%=:=+=-::--:.:=:..:::..::. .-#@@@@</tspan>
+  <tspan x="18" y="248">@@@@%+=+=+===-=--+*=..:-----:. :=%@@@@</tspan>
+  <tspan x="18" y="262">@@@@@*=+======+-=-+-::-=--::.. :+@@@@@</tspan>
+  <tspan x="18" y="276">@@@@@%+=----=++=::-:.:==-:...  :#@@@@@</tspan>
+  <tspan x="18" y="290">@@@@@@#=:----::..:::..::::... -*@@@@@@</tspan>
+  <tspan x="18" y="304">@@@@@@@%-:--.  .:--::.   ...  %@@@@@@@</tspan>
+  <tspan x="18" y="318">@@@@@@@@*::::.::-===-:. ..   -@@@@@@@@</tspan>
+  <tspan x="18" y="332">@@@@@@@@@+::..:::......      +@@@@@@@@</tspan>
+  <tspan x="18" y="346">@@@@@@@#**:. ..::---:.       :=#@@@@@@</tspan>
+  <tspan x="18" y="360">@@@@@@+ .:                     .-@@@@@</tspan>
+  <tspan x="18" y="374">@@@@@=   ..                   .. +@@@@</tspan>
+  <tspan x="18" y="388">@@@%*.    ...                     +%@@</tspan>
+  <tspan x="18" y="402">#+-::     ...::.... .......        .-=</tspan>
+  <tspan x="18" y="416">  .       .:::::::::::::::..          </tspan>
+  <tspan x="18" y="430">           .:-=====--==--::.          </tspan>
+  <tspan x="18" y="444">            :---=++++==---.           </tspan>
   </text>
-  <text x="285" y="38" font-family="monospace" font-size="13" font-weight="bold" fill="#e6edf3">amalsom10</text>
-  <text x="363" y="38" font-family="monospace" font-size="13" fill="#30363d">@github ------------------------------------------</text>
-  <text x="285" y="68"  font-family="monospace" font-size="12"><tspan fill="#8b949e">  OS: .................. </tspan><tspan fill="#79c0ff">Linux</tspan></text>
-  <text x="285" y="86"  font-family="monospace" font-size="12"><tspan fill="#8b949e">  Host: ................ </tspan><tspan fill="#79c0ff">VerticalScope, Toronto</tspan></text>
-  <text x="285" y="104" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Role: ................ </tspan><tspan fill="#79c0ff">Staff Engineer</tspan></text>
-  <text x="285" y="122" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Focus: ............... </tspan><tspan fill="#79c0ff">SRE / DevOps / Platform</tspan></text>
-  <text x="285" y="140" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Experience: .......... </tspan><tspan fill="#79c0ff">7+ years</tspan></text>
-  <text x="285" y="168" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Languages.Programming: </tspan><tspan fill="#ffa657">Go, Python, Bash</tspan></text>
-  <text x="285" y="186" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Languages.Config: ..... </tspan><tspan fill="#ffa657">Terraform, Helm, YAML</tspan></text>
-  <text x="285" y="204" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Languages.Real: ....... </tspan><tspan fill="#ffa657">English, Malayalam</tspan></text>
-  <text x="285" y="232" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Hobbies.Infra: ........ </tspan><tspan fill="#3fb950">Kubernetes, IaC, GitOps</tspan></text>
-  <text x="285" y="250" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Hobbies.Obs: .......... </tspan><tspan fill="#3fb950">Prometheus, Grafana, OTel</tspan></text>
-  <text x="285" y="268" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Hobbies.Cloud: ........ </tspan><tspan fill="#3fb950">AWS, GCP, Azure</tspan></text>
-  <text x="285" y="296" font-family="monospace" font-size="12" fill="#6e7681">  - Contact ------------------------------------------------</text>
-  <text x="285" y="318" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Email: .......... </tspan><tspan fill="#79c0ff">amalsoman10@gmail.com</tspan></text>
-  <text x="285" y="336" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Portfolio: ...... </tspan><tspan fill="#79c0ff">amalsoman.com</tspan></text>
-  <text x="285" y="354" font-family="monospace" font-size="12"><tspan fill="#8b949e">  LinkedIn: ....... </tspan><tspan fill="#79c0ff">/in/amalsoman</tspan></text>
-  <text x="285" y="372" font-family="monospace" font-size="12"><tspan fill="#8b949e">  GitHub: ......... </tspan><tspan fill="#79c0ff">github.com/amalsom10</tspan></text>
-  <text x="285" y="400" font-family="monospace" font-size="12" fill="#6e7681">  - GitHub Stats -------------------------------------------</text>
-  <text x="285" y="422" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Repos: ...... </tspan><tspan fill="#e6edf3">REPO_COUNT</tspan><tspan fill="#8b949e">     Stars: ...... </tspan><tspan fill="#e3b341">STAR_COUNT</tspan></text>
-  <text x="285" y="442" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Commits: .... </tspan><tspan fill="#e6edf3">COMMIT_COUNT</tspan><tspan fill="#8b949e">  Followers: .. </tspan><tspan fill="#e6edf3">FOLLOWER_COUNT</tspan></text>
+  <text x="325" y="38" font-family="monospace" font-size="13" font-weight="bold" fill="#e6edf3">amalsom10</text>
+  <text x="403" y="38" font-family="monospace" font-size="13" fill="#30363d">@github ---------------------------------</text>
+  <text x="325" y="68"  font-family="monospace" font-size="12"><tspan fill="#8b949e">  OS: .................. </tspan><tspan fill="#79c0ff">Linux</tspan></text>
+  <text x="325" y="86"  font-family="monospace" font-size="12"><tspan fill="#8b949e">  Host: ................ </tspan><tspan fill="#79c0ff">VerticalScope, Toronto</tspan></text>
+  <text x="325" y="104" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Role: ................ </tspan><tspan fill="#79c0ff">Staff Engineer</tspan></text>
+  <text x="325" y="122" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Focus: ............... </tspan><tspan fill="#79c0ff">SRE / DevOps / Platform</tspan></text>
+  <text x="325" y="140" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Experience: .......... </tspan><tspan fill="#79c0ff">7+ years</tspan></text>
+  <text x="325" y="168" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Languages.Programming: </tspan><tspan fill="#ffa657">Go, Python, Bash</tspan></text>
+  <text x="325" y="186" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Languages.Config: ..... </tspan><tspan fill="#ffa657">Terraform, Helm, YAML</tspan></text>
+  <text x="325" y="204" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Languages.Real: ....... </tspan><tspan fill="#ffa657">English, Malayalam</tspan></text>
+  <text x="325" y="232" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Hobbies.Infra: ........ </tspan><tspan fill="#3fb950">Kubernetes, IaC, GitOps</tspan></text>
+  <text x="325" y="250" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Hobbies.Obs: .......... </tspan><tspan fill="#3fb950">Prometheus, Grafana, OTel</tspan></text>
+  <text x="325" y="268" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Hobbies.Cloud: ........ </tspan><tspan fill="#3fb950">AWS, GCP, Azure</tspan></text>
+  <text x="325" y="296" font-family="monospace" font-size="12" fill="#6e7681">  - Contact ------------------------------------------</text>
+  <text x="325" y="318" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Email: .......... </tspan><tspan fill="#79c0ff">amalsoman10@gmail.com</tspan></text>
+  <text x="325" y="336" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Portfolio: ...... </tspan><tspan fill="#79c0ff">amalsoman.com</tspan></text>
+  <text x="325" y="354" font-family="monospace" font-size="12"><tspan fill="#8b949e">  LinkedIn: ....... </tspan><tspan fill="#79c0ff">/in/amalsoman</tspan></text>
+  <text x="325" y="372" font-family="monospace" font-size="12"><tspan fill="#8b949e">  GitHub: ......... </tspan><tspan fill="#79c0ff">github.com/amalsom10</tspan></text>
+  <text x="325" y="400" font-family="monospace" font-size="12" fill="#6e7681">  - GitHub Stats -------------------------------------</text>
+  <text x="325" y="422" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Repos: ...... </tspan><tspan fill="#e6edf3">REPO_COUNT</tspan><tspan fill="#8b949e">     Stars: ...... </tspan><tspan fill="#e3b341">STAR_COUNT</tspan></text>
+  <text x="325" y="442" font-family="monospace" font-size="12"><tspan fill="#8b949e">  Commits: .... </tspan><tspan fill="#e6edf3">COMMIT_COUNT</tspan><tspan fill="#8b949e">  Followers: .. </tspan><tspan fill="#e6edf3">FOLLOWER_COUNT</tspan></text>
 </svg>
