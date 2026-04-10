@@ -44,20 +44,20 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalsom10&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalsom10&theme=dracula&count_private=true&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amalsom10&show_icons=true&count_private=true&theme=solarized-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalsom10&theme=solarized-dark&count_private=true&layout=compact&hide_border=true" height="165" />
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=amalsom10&theme=dracula&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=amalsom10&theme=solarized-dark&hide_border=true&short_numbers=true" alt="GitHub Streak" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amalsom10&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amalsom10&theme=solarized-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
