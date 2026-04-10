@@ -2,7 +2,7 @@
 
 # Hey there, I'm Amal Soman 👋
 
-### Staff DevOps Engineer · Site Reliability Engineer · Platform Engineer
+### Staff Engineer | DevOps | SRE | Platform
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-amalsoman.com-blue?style=for-the-badge)](https://amalsoman.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/amalsoman/)
