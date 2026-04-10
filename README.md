@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/29267275?v=4" width="130" alt="Amal Soman" />
+<img src="https://github.com/amalsom10.png" width="130" alt="Amal Soman" />
 
 # Hey there, I'm Amal Soman 👋
 
